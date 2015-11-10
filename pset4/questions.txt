@@ -1,0 +1,19 @@
+0.  BMP-All colors, GIF-8 bits of colors(256), JPEG-all colors, PNG-all colors, courtesy of aivosto.com
+1.  GIF supports animation
+2.  lossy compression cuts away certain data when compressing files and when uncompressed, does not regain that info. lossless compression on the other handkeeps all its information when uncompressed.
+3.  JPEG
+4.  File that is being deleted's first character is modified to signal that it's deleted, and then its clusters are moved to the 'free' portion of the disk
+5.  I can destroy my harddrive through various means, degauss, or use various wiping tools that overwrite memory or securely wipe data.
+6.  stdint.h allows you to use ints with a specified or exact widths.
+7.  they define set width integers that you can use.
+8.  1,4,4,2
+9.  BM in ASCII
+10. bfsize-size in bytes of the bitmap file, bisize-size in bytes required by the structure
+11. its origins are in the upper left corner of the file
+12. biBitCount
+13. might not be enough memory to create a new file
+14. because we're only working with 1 member and reading it
+15. 3
+16. sets the file position indicator for the stream pointed to by the file opened.
+17. the current position indicator
+18. Rob Bowden

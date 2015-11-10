@@ -1,0 +1,16 @@
+0.  lung disease caused by inhaling very fine ash and sand dust
+1.  returns resource mesaures for itself, its children, or the thread it's on
+2.  16
+3.  to get the most accurate runtime and to provide faster caluclations 
+4.  the for loop runs until it reaches end of file. each iteration, a new character is retrieved. the character is added to an array of characters
+    that is the same size of the length of the characters. includes apostraphes. if length of the index is greater than 45, a new word is prepared
+    if a number is gotten, the index is restarted. when c = fgetc(fp) retrieves a null char, the word counter is incremented. spelling is checked.
+    print the word if its mispelled. reset index and do all over again until EOF
+5.  we use getc to check each character and make a more precise spellchecker. we can also specifically check for '\0' a lot easier.
+6.  in order to not accidentally mess up the program when putting in input
+7.  I used a hash table. A hash table the size of the alphabet, where each 'box' held linked lists that stored the words in my dictionary. each of 
+    the nodes held a string (loaded word from dictionary) and a pointer to the next inserted linked list or NULL if end of linked list.
+8.  0.60.
+9.  I did not make any changes on my code to improve performance since I am behind on the psets and I need to catch up to PHP.
+10. Yes, I could have made the code a lot faster if I used tries so I couldn't really chip away at that, because as mentioned above, I am behind on
+    my problem sets. : (
