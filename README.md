@@ -32,5 +32,6 @@ A repo of all my CS50 problem sets, starting from 0.
 <p>files to a selling/buying stocks website that uses php and SQL to store user info</p>
 
 # pset 8
+<b>Contains:</b>
 <p>files that use googles API for google maps to show news feeds of local areas or where a marker is placed, using a lot of javascript</p>
   
