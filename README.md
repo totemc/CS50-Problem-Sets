@@ -1,5 +1,5 @@
 # CS50-Problem-Sets
-A repo of all my CS50 problem sets, starting from 0.
+A repo of all my CS50 problem sets, starting from 1.
 # pset 1
 <b>Contains:</b>
   <p><b>greedy</b>, a change calculator</p>
